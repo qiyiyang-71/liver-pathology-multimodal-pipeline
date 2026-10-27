@@ -1,4 +1,4 @@
-# Small-Sample Domain-Adapted Multimodal Pipeline for Liver Histopathology
+# Domain-Adapted Multimodal Pipeline for Liver Histopathology
 
 Code accompanying the manuscript submitted to *Journal of Clinical and Translational Hepatology* (JCTH):
 
